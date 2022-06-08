@@ -1,6 +1,6 @@
 # Orion Tri-Belt
 
-A mod of a Voron Trident that replaces the 3 leadscrews with belts and modified Z-Drives from a 2.4.  This is in the very early stages of development and though a fully funtional model has been completed the various parts are not yet fully tested.  Many changes will be coming in the following months.  
+A mod of a Voron Trident that replaces the 3 leadscrews with belts and modified Z-Drives from a 2.4.  This is in the very early stages of development and though a fully funtional printer has been built some of the parts are not yet fully tested.  The existing printer is producing excellent prints though many changes will be coming in the following months.  
 
 This first version places the Low Voltage Electronics up top, though I do hope to create a version in the future which is more closely matched to a stock Trident Build.  The second version will have the Z drives and low voltage electronics located on the bottom as in a Voron 2.4.
 
@@ -13,7 +13,7 @@ Since this is the most common question when posting about this printer I will ge
   3. Similar cost to a trident with lead screws given the relativly high cost of Steppers with integrated lead screws.
   4. Why not?
 
-The cost of this modification is $145 US.
+The cost of this modification is approximatly $145 USD.  If the 3 Steppers with lead screws are not purchased the cost over a stock trident build is approximatly $40 USD.
 
 ## BOM
 The following is a list of parts required in addition to the Trident Stock Build.
