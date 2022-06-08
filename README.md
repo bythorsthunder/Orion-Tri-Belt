@@ -1,5 +1,7 @@
 # Orion Tri-Belt
 
+![](Images/Orion.JPG)
+
 A mod of a Voron Trident that replaces the 3 leadscrews with belts and modified Z-Drives from a 2.4.  This is in the very early stages of development and though a fully funtional printer has been built some of the parts are not yet fully tested.  The existing printer is producing excellent prints though many changes will be coming in the following months.  
 
 This first version places the Low Voltage Electronics up top, though I do hope to create a version in the future which is more closely matched to a stock Trident Build.  The second version will have the Z drives and low voltage electronics located on the bottom as in a Voron 2.4.
