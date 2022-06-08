@@ -17,6 +17,9 @@ Since this is the most common question when posting about this printer I will ge
 
 The cost of this modification is approximatly $145 USD.  If the 3 Steppers with lead screws are not purchased the cost over a stock trident build is approximatly $40 USD.
 
+## CAD
+Due to max size for files on GitHub the CAD file can be downloaded with this link.  There is a greatly trimmed down file available in the CAD folder but this link contains the most up to date model.  https://www.dropbox.com/s/bkrurjnszwhw9md/Orion%20Tri-Belt.step?dl=0
+
 ## BOM
 The following is a list of parts required in addition to the Trident Stock Build.
 
