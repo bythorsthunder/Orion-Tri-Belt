@@ -43,8 +43,8 @@ The following is a list of parts required in addition to the stock Trident Build
 |Pulley 2GT 80 Tooth, 6mm	|  3
 |Pulley 2GT 20 Tooth, 9mm	|  3
 |Idler 2GT 20 Tooth, 9mm	|  3
-|50x60 D-Shaft	|  3
-|Bearing F625-2RS	|  9
+|5x60 D-Shaft	|  3
+|Bearing 625-2RS	|  9
 
 ### Fastners	
 | Item | Qty |
