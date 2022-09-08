@@ -21,7 +21,7 @@ The cost of this modification is approximately $145 USD.  If the 3 steppers with
 
 ## CAD
 
-Due to max size for files on GitHub, [the CAD file can be downloaded from Dropbox](https://www.dropbox.com/s/bkrurjnszwhw9md/Orion%20Tri-Belt.step?dl=0).  There is a greatly trimmed-down file available in the CAD folder, but this link contains the most up to date full model.  
+Due to max size for files on GitHub, [the CAD file can be downloaded from Dropbox](https://www.dropbox.com/s/zwozwpm1h77wviw/Orion%20Tri-Belt%20v5.step?dl=0).  There is a greatly trimmed-down file available in the CAD folder, but this link contains the most up to date full model.  
 
 ## BOM
 
