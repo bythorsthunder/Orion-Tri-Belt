@@ -58,3 +58,13 @@ The following is a list of parts required in addition to the stock Trident Build
 |M3x8 SHCS | Yes
 
 Upper Deck Panel- Easily made from a modified stock Trident Electronics Panel.
+
+## STLs
+For a new build skip the following when printing parts from the trident repo.
+### Excluded Parts
+|Z_Assembly|Skirt|Panels|Gantry|
+| - | - | - | - |
+|[a]_z_carriage...|12864 Parts|bottom_panel...|Front Idlers|
+|z_bed...|
+|z_carriage...|
+|z_stepper...|
