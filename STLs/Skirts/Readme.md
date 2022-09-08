@@ -1,1 +1,1 @@
-These are the modified upper skirts for a 250 size Orion only.  The remainder of the upper skirts can be found in the Voron2.4R2 Stl Repo.
+These are the modified upper skirts for a 250 size Orion only. The STLs for the top mount Mini12864 Display are also included. The remainder of the upper skirts for can be found in the Voron2.4R2 Stl Repo for a 250.
