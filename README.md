@@ -47,6 +47,7 @@ The following is a list of parts required in addition to the stock Trident Build
 |Bearing 625-2RS	|  9
 
 ### Fastners	
+Buy extras.
 | Item | Qty |
 | - | - |
 |M5x30 BHCS	|  3
@@ -57,10 +58,9 @@ The following is a list of parts required in addition to the stock Trident Build
 |M3 Heatsets	|  20
 |M3x8 SHCS | Yes
 
-Upper Deck Panel- Easily made from a modified stock Trident Electronics Panel.
-
 ## STLs
-For a new build skip the following when printing parts from the trident repo.
+Print all files in the STLs folder.  Review readme.md in the Skirts folder for additional information.
+For a new build skip the following when printing parts from the Trident repo.
 ### Excluded Parts
 |Z_Assembly|Skirt|Panels|Gantry|
 | - | - | - | - |
@@ -68,3 +68,21 @@ For a new build skip the following when printing parts from the trident repo.
 |z_bed...|
 |z_carriage...|
 |z_stepper...|
+
+### Additional Parts
+From the Voron 2.4 Skirts Repo print the following:
+| - |
+|[a]_belt_guard
+|[a]_fan_grill
+|[a]_fan_grill_retainer
+side_fan_support
+side_skirt_a and b (Print only one of each)
+
+## Panels
+Upper deck panel can be created from the bottom panel.  DXF is included.
+
+Deck Panel remains the same.
+
+Rear Panel may benefit from some cutouts below the gantry extrusion to allow easier routing of wires from below deck to above.
+
+Top LV electronics panel is a square with the same outside dimensions as the bottom panel.
